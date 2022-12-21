@@ -1,5 +1,11 @@
 # Crosa-Conty-3D
 
+## Download
+A binary version is presented here:[CC3D](https://github.com/logic-three-body/Crosa-Conty-3D/releases/tag/v0.1)
+
+## About
+
+
 This is a practice for learning Cherno's game engine series and learnopengl.com
 
 Check my [blog](https://www.yuque.com/6527chen/ldyt32/wyke3l) to see the results and opengl pbr pipeline framework
